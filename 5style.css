@@ -1,0 +1,8 @@
+.flex-container{
+            
+    display: flex;
+    background-color: blue;
+    width: 650px;
+    height: 280px;
+    
+}
